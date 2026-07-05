@@ -14,6 +14,8 @@ This project was inspired by Object Stream Community, but is an independent fan 
 
 I'm still adding episodes and polishing things, so expect more updates and shows over time.
 
+Some shows may also have issues due to how Stremio handles episode numbering (for example, episodes getting mixed up). So don't be surprised if your favorite show isn't available yet or has a few quirks.
+
 ## Install
 
 Paste this into Stremio:

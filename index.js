@@ -4,7 +4,7 @@ const builder = new addonBuilder({
     id: "org.mivexia.test",
     version: "1.0.0",
     name: "Mivexia's Test Addon",
-    description: "first addon :D",
+    description: "Watch object shows from YouTube.",
 
     resources: ["stream"],
     types: ["movie", "series"], 

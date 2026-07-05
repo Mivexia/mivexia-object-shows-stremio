@@ -4,7 +4,7 @@ const builder = new addonBuilder({
     id: "com.mivexia.objectshows",
     version: "1.0.0",
     name: "Object Shows",
-    description: "Watch object shows in Stremio using YouTube."
+    description: "Watch object shows in Stremio using YouTube.",
 
     resources: ["stream"],
     types: ["movie", "series"], 

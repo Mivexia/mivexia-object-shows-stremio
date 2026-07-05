@@ -54,3 +54,5 @@ This addon is hosted on Render's free plan.
 If nobody has used it for a while, the server may go to sleep. The first request after that can take around 30–60 seconds while it wakes up.
 
 If it seems like nothing is happening after you install the addon or open a stream, give it a minute and try again. Once it's awake, everything should work normally.
+
+Most episodes use the official YouTube uploads from the original creators. However, because some official uploads are split into multiple parts (such as BFDI 1A/1B and BFDIA 5A–5E), this addon currently uses fan-made combined uploads for those specific episodes to provide a smoother viewing experience.

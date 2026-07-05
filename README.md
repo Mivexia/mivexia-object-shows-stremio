@@ -12,7 +12,8 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - [Battle for BFDI (BFB)](https://web.strem.io/#/detail/series/tt5747554?season=4)
 - [The Power of Two (TPOT)](https://web.strem.io/#/detail/series/tt5747554?season=5)
 - [Battle for Dream Island Elsewhere (BFDIE)](https://web.strem.io/#/detail/series/tt5747554?season=6)
-- [It's time for the (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
+- [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
+- [Animatic Battle](https://web.strem.io/#/detail/series/tt32626768)
 
 I'm still adding episodes and polishing things, so expect more updates and shows over time.
 
@@ -56,4 +57,4 @@ If nobody has used it for a while, the server may go to sleep. The first request
 
 If it seems like nothing is happening after you install the addon or open a stream, give it a minute and try again. Once it's awake, everything should work normally.
 
-Most episodes use the official YouTube uploads from the original creators. However, because some official uploads are split into multiple parts (such as BFDI 1A/1B and BFDIA 5A–5E), this addon currently uses fan-made combined uploads for those specific episodes to provide a smoother viewing experience.
+BFDI 1A/1B and BFDIA 5A–5E currently uses fan-made combined uploads for those specific episodes to provide a smoother viewing experience.

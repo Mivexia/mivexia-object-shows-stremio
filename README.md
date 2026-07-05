@@ -41,7 +41,7 @@ I wanted an easy way to watch object shows in Stremio using YouTube, and it turn
 
 This addon doesn't host any videos. It simply points Stremio to YouTube uploads.
 
-Huge thanks to the creators of the shows for making them, and to Object Stream Community for giving me the idea to try building something like this.
+Thanks to the creators of these shows for making them, and to [Object Stream Community](https://www.objectstreamcommunity.com) for inspiring this project.
 
 ## Disclaimer
 

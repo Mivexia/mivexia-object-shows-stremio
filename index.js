@@ -13,7 +13,7 @@ const builder = new addonBuilder({
 
 // Reorganized to map by [IMDb_ID][Season][Episode]
 const showLinks = {
-    "tt5747554": {
+    "tt5747554": { // Battle For Dream Island (BFDI)
         "1": { 
             "1": "4sWfDOkM-zA", "2": "JfzEO9-Zlhw", "3": "rhkgOXksmaY", "4": "cdmVPHdpECM", "5": "xHI-iKm31us", "6": "6vGgsXO57bs", "7": "Ze1p7bYXw0g", "8": "g0wCF04ddnw", "9": "ylVsfdU5pxo", "10": "Eg5Ja23HfhY",
             "11": "yhkDgX2b7po", "12": "U4sp10HUI6Y", "13": "BQBmKvRd0B0", "14": "yZqh3l3-pTM", "15": "pf9FHBM0SLQ", "16": "nAKk0gm73K0", "17": "Xmh7M7TXDRE", "18": "x4K1xKHwp0E", "19": "4pR6Y3_ahS8", "20": "J9udiROQchg",
@@ -41,9 +41,14 @@ const showLinks = {
             "1": "lgygCENldD0", "2": "bnzOL9v5Pn0", "3": "DKq0IjNhyKU", "4": "s-_GwW1bNoY", "5": "r3SMDnxT3aE", "6": "dTBnk-Vgfvg", "7": "tVX0gCVjN7s", "8": "mS6sWXH1aQw", "9": "lUuKvJlTaA8", "10": "O4iixZEv_HA"
         }
     },
-    "tt32626768": {
-        "1": { // Season 1 (10 episodes)
+    "tt32626768": { // It's Time For The (ITFT)
+        "1": {
             "1": "kvHc3e87Bfw", "2": "ZkZt5cmF3V4", "3": "PXC9iKRvbbQ", "4": "wAL4B7EGjX8", "5": "EtecN-s2qCg", "6": "Vco-wRzDoH4", "7": "qw0Rt9R_4ak", "8": "eFEyscrf_TY", "9": "n9fqveIS7UY", "10": "HYxdkCKeAIk"
+        }
+    },
+    "tt32575983": { // Animatic Battle
+        "1": {
+            "1": "CjbUT7C5VY8", "2": "S5m9vxMLaVs", "3": "cc9vaq2QXkM", "4": "QdbBWz3YA_8"
         }
     }
 };

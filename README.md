@@ -14,7 +14,7 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - ✅️ [Battle for Dream Island Elsewhere (BFDIE)](https://web.strem.io/#/detail/series/tt5747554?season=6)
 - ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 - ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
-- 🚧 ONE/HJFONE
+- ✅ ONE/HJFONE
 - ⏳️ CFMOT
 - ⏳️ The Nightly Manor
 - ⏳️ The Daily Object Show

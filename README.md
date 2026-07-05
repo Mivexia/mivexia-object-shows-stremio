@@ -12,6 +12,7 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - [Battle for BFDI (BFB)](https://web.strem.io/#/detail/series/tt5747554?season=4)
 - [The Power of Two (TPOT)](https://web.strem.io/#/detail/series/tt5747554?season=5)
 - [Battle for Dream Island Elsewhere (BFDIE)](https://web.strem.io/#/detail/series/tt5747554?season=6)
+- [It's time for the (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 
 I'm still adding episodes and polishing things, so expect more updates and shows over time.
 

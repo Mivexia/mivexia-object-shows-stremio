@@ -7,11 +7,6 @@ This project was inspired by Object Stream Community, but is an independent fan 
 ## Supported Shows
 
 - ✅️ [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?season=1)
-- ✅️ [Battle for Dream Island Again (BFDIA)](https://web.strem.io/#/detail/series/tt5747554?season=2)
-- ✅️ [IDFB](https://web.strem.io/#/detail/series/tt5747554?season=3)
-- ✅️ [Battle for BFDI (BFB)](https://web.strem.io/#/detail/series/tt5747554?season=4)
-- ✅️ [The Power of Two (TPOT)](https://web.strem.io/#/detail/series/tt5747554?season=5)
-- ✅️ [Battle for Dream Island Elsewhere (BFDIE)](https://web.strem.io/#/detail/series/tt5747554?season=6)
 - ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 - ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
 - ✅ [ONE/HJFONE](https://web.strem.io/#/detail/series/tt19385824)

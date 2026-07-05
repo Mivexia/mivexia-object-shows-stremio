@@ -4,14 +4,14 @@ A fan-made Stremio addon for watching object shows through YouTube.
 
 This project was inspired by Object Stream Community, but is an independent fan project and is not affiliated with them.
 
-## What's included?
+## Supported Shows
 
-- Battle for Dream Island (BFDI)
-- Battle for Dream Island Again (BFDIA)
-- IDFB
-- Battle for BFDI (BFB)
-- The Power of Two (TPOT)
-
+- [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?season=1)
+- [Battle for Dream Island Again (BFDIA)](https://web.strem.io/#/detail/series/tt5747554?season=2)
+- [IDFB](https://web.strem.io/#/detail/series/tt5747554?season=3)
+- [Battle for BFDI (BFB)](https://web.strem.io/#/detail/series/tt5747554?season=4)
+- [The Power of Two (TPOT)](https://web.strem.io/#/detail/series/tt5747554?season=5)
+- [Battle for Dream Island Elsewhere (BFDIE)](https://web.strem.io/#/detail/series/tt5747554?season=6)
 I'm still adding episodes and polishing things, so expect more updates and shows over time.
 
 Some shows may also have issues due to how Stremio handles episode numbering (for example, episodes getting mixed up). So don't be surprised if your favorite show isn't available yet or has a few quirks.

@@ -10,8 +10,8 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 - ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
 - ✅ [ONE/HJFONE](https://web.strem.io/#/detail/series/tt19385824)
-- ⏳️ CFMOT
-- ⏳️ The Nightly Manor
+- ✅️ CFMOT
+- 🚧 The Nightly Manor
 - ⏳️ The Daily Object Show
 - ⏳️ Tripwire
 - ⏳️ Showvember

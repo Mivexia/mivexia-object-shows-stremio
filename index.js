@@ -58,6 +58,11 @@ const showLinks = {
         "2": {
             "1": "OWHZ2zOgr9c", "2": "0jq6sMEimPY", "3": "ZqwpZ09mbmo", "4": "raX54aw-bgc", "5": "wrkbSEBm5Fk", "6": "GhqmJ-NdPEE", "7": "deMihzUA4hY", "8": "Ew6Ho9sStZ0", "9": "8vRcG-ojfYc"
         }
+    },
+    "tt32641101": { // CFMOT/ИНМТ
+        "1": {
+            "1": "8Wnb4v61MBk", "2": "B1HsRADBsDE", "3": "tbmJvb9ARdc", "4": "NM7eF5x-1K4", "5": "c2-L3eVn5hk", "6": "yeDBnoFIIPk", "7": "Q1m75p4JH_k", "8": "Srua4phEAsE"
+        }
     }
 };
 

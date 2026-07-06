@@ -23,6 +23,8 @@ This project was inspired by Object Stream Community, but is an independent fan 
 
 ✅ Fully supported
 
+🧪 Available, testing
+
 🚧 In progress
 
 ⏳ Planned 

@@ -6,12 +6,12 @@ This project was inspired by Object Stream Community, but is an independent fan 
 
 ## Supported Shows
 
-- ✅️ [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?season=1)
+- ✅️ [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?)
 - ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 - ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
 - ✅ [ONE/HJFONE](https://web.strem.io/#/detail/series/tt19385824)
-- ✅️ CFMOT
-- 🚧 The Nightly Manor
+- ✅️ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
+- ✅️ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
 - ⏳️ The Daily Object Show
 - ⏳️ Tripwire
 - ⏳️ Showvember

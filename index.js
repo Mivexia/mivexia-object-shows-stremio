@@ -63,6 +63,14 @@ const showLinks = {
         "1": {
             "1": "8Wnb4v61MBk", "2": "B1HsRADBsDE", "3": "tbmJvb9ARdc", "4": "NM7eF5x-1K4", "5": "c2-L3eVn5hk", "6": "yeDBnoFIIPk", "7": "Q1m75p4JH_k", "8": "Srua4phEAsE"
         }
+    },
+    "tt23672398": { // The Nightly Manor
+        "1": {
+            "1": "T1w9gjxShbo", "2": "N8njUkit0eE", "3": "jblwlgIcQes"
+        },
+        "2": {
+            "1": "fTar7dVLofw", "2": "03dIz0y1DAc", "3": "A43PUiqnyEY"
+        }
     }
 };
 

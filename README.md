@@ -7,6 +7,7 @@ This project was inspired by Object Stream Community, but is an independent fan 
 ## Supported Shows
 
 - ✅️ [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?)
+- 🧪 Inanimate Insanity
 - ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 - ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
 - ✅ [ONE/HJFONE](https://web.strem.io/#/detail/series/tt19385824)

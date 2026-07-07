@@ -73,3 +73,5 @@ If nobody has used it for a while, the server may go to sleep. The first request
 If it seems like nothing is happening after you install the addon or open a stream, give it a minute and try again. Once it's awake, everything should work normally.
 
 BFDI 1A/1B and BFDIA 5A–5E currently uses fan-made combined uploads for those specific episodes to provide a smoother viewing experience.
+
+Inanimate Insanity may have unusual season ordering in Stremio due to metadata. The episode streams themselves should still be correct.

@@ -41,6 +41,23 @@ const showLinks = {
             "1": "lgygCENldD0", "2": "bnzOL9v5Pn0", "3": "DKq0IjNhyKU", "4": "s-_GwW1bNoY", "5": "r3SMDnxT3aE", "6": "dTBnk-Vgfvg", "7": "tVX0gCVjN7s", "8": "mS6sWXH1aQw", "9": "lUuKvJlTaA8", "10": "O4iixZEv_HA"
         }
     },
+    "tt3822326": { // Inanimate Insanity
+        "1": { // 18 episodes
+            "1": "lcGtU2eYeyU", "2": "iHQWL7CV4Sk", "3": "8RmAALsq48k", "4": "8k7V0Z9DQbs", "5": "IrG-bBk2WGc", "6": "Sz9wBEjMCT0", "7": "dZ9N0UGHheM", "8": "e9fBRfm9Z0w", "9": "1qjl2sKUIpM", "10": "H_KyjJaEz3s",
+            "11": "hyk84Txx2gU", "12": "x1OL_VQr874", "13": "vVVbF1Hzx3k", "14": "_XCB0m0RzUc", "15": "U0Tz8-C5xyE", "16": "IHi-li1Vr-g", "17": "vFHoGWZPa3U", "18": "vEOd2TNtO3A"
+        },
+        "2": { // 18 episodes
+            "1": "xEOUmwUB_cE", "2": "0tbpQ3jccbk", "3": "nrzRpAZibVc", "4": "l1-EsJtvm5w", "5": "5loEcrE1IvQ", "6": "dZft9ZHXWcE", "7": "scwqoN66DU0", "8": "omKX_3r4lxQ", "9": "ISpb8XU_0mU", "10": "Q4QADdy6rK4",
+            "11": "IDlULbpnKA0", "12": "0vh5szkAdkY", "13": "ayHy91TVX1c", "14": "-Nom7K4Rqi0", "15": "hK4Va5Tgrjs", "16": "WKvS5_h3dQs", "17": "7etjFwAeKcA", "18": "xSeVhTmLHHM"
+        },
+        "3": { // 19 episodes
+            "1": "", "2": "", "3": "", "4": "", "5": "", "6": "", "7": "", "8": "", "9": "", "10": "",
+            "11": "", "12": "", "13": "", "14": "", "15": "", "16": "", "17": "", "18": "", "19": ""
+        },
+        "4": { // 5 episodes
+            "1": "", "2": "", "3": "", "4": "", "5": ""
+        }
+    },
     "tt32626768": { // It's Time For The (ITFT)
         "1": {
             "1": "kvHc3e87Bfw", "2": "ZkZt5cmF3V4", "3": "PXC9iKRvbbQ", "4": "wAL4B7EGjX8", "5": "EtecN-s2qCg", "6": "Vco-wRzDoH4", "7": "qw0Rt9R_4ak", "8": "eFEyscrf_TY", "9": "n9fqveIS7UY", "10": "HYxdkCKeAIk"

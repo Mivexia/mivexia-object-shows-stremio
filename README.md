@@ -10,7 +10,7 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - ✅️ [Inanimate Insanity](https://web.strem.io/#/detail/series/tt3822326)
 - ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
 - ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
-- ✅ [ONE/HJFONE](https://web.strem.io/#/detail/series/tt19385824)
+- ✅ [ONE/HFJONE](https://web.strem.io/#/detail/series/tt19385824)
 - ✅️ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
 - ✅️ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
 - ⏳️ The Daily Object Show

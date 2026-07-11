@@ -88,6 +88,35 @@ const showLinks = {
         "2": {
             "1": "fTar7dVLofw", "2": "03dIz0y1DAc", "3": "A43PUiqnyEY"
         }
+    },
+    "tt14743640": { // The Daily Object Show
+        "1": {
+            "1": "W1JElKF4JBI", "2": "Va52BbBZtqs", "3": "zv6rB0oivUM", "4": "dIxdBY-Hxk8", "5": "DYdf1ncu-a4"
+        },
+        "2": {
+            "1": "7uhwh4r2c5A", "2": "Eo24cOtqyQc", "3": "0CCg_MJ_vgs", "4": "O1IXov8ulx0", "5": "84x7aIKRPN0"
+        },
+        "3": {
+            "1": "knHZwDhtuM0", "2": "SpC_J9C7zDI", "3": "Of-2ikWneCU", "4": "kiVp5Z2xOXE", "5": "q0sNIThpRfU", "6": "JHRDjeov-jU", "7": "RC-TLVdv6n4"
+        },
+        "4": {
+            "1": "dF9iVqgRhPE", "2": "Mx_FTwshvjg", "3": "Diuxni6MwWA", "4": "p8kHA6mg9Z0"
+        },
+        "5": {
+            "1": "oH3XP-GgV30", "2": "k-_QTzPoeQQ", "3": "PUkbfGzFjmM", "4": "FzbWEisqo3o"
+        },
+        "6": {
+            "1": "DIQP2JHlqWk", "2": "T0cvW3wVx8A", "3": "qZB_wRZKKhU", "4": "ZkDCorgDAHI", "5": "sGIin4SDQFA"
+        },
+        "7": {
+            "1": "PLDkFrpiCz0", "2": "v1D5QN3sKGE", "3": "gEqNgd5NlEw", "4": "CYgBmVelODk", "5": "xlWFYze2B3s", "6": "8vs-ijQANeY", "7": "1_XJJOupVQw", "8": "PXT-umxcYtI", "9": "UChhKzAWqDM"
+        },
+        "8": {
+            "1": "HYL-UqOt9sc", "2": "cWha9bbTLfg", "3": "J-v1EX6tzJo", "4": "O3XGLO51xMA", "5": "Ma32qKAEsks", "6": "QGI1FrctsmM", "7": "JAUaJdVJdiQ"
+        },
+        "9": {
+            "1": "9cGY4ZiZXyk", "2": "IJr9aROvktY", "3": "WPockTs4ZU0", "4": "S15dkopr-EY", "5": "yYGh4rgSHY4"
+        }
     }
 };
 

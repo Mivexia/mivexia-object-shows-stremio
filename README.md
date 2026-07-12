@@ -17,7 +17,6 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - ⏳️ Tripwire
 - ⏳️ Showvember
 - ⏳️ Object Invasion
-- ⏳️ Threeee
 - ⏳️ Thanos
 - ⏳️ Love of the S*n
 - ⏳️ Animated Inanimate Battle

@@ -15,7 +15,8 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅️ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
 - ✅️ [The Daily Object Show](https://web.stremio.com/#/detail/series/tt14743640)
 - ✅️ [Showvember](https://web.stremio.com/#/detail/series/tt26628572)
-- ⏳️ Object Invasion
+- ✅️ [Object Invasion (2016)](https://web.stremio.com/#/detail/series/tt14743620)
+- ✅️ [Object Invasion (2024)](https://web.stremio.com/#/detail/series/tt35838877)
 - ⏳️ Thanos
 - ⏳️ Love of the S*n
 - ⏳️ Animated Inanimate Battle

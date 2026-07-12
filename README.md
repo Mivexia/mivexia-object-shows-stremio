@@ -14,7 +14,6 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - ✅️ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
 - ✅️ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
 - ✅️ [The Daily Object Show](https://web.stremio.com/#/detail/series/tt14743640)
-- ⏳️ Tripwire
 - ⏳️ Showvember
 - ⏳️ Object Invasion
 - ⏳️ Thanos

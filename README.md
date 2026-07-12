@@ -20,7 +20,6 @@ This project was inspired by Object Stream Community, but is an independent fan 
 - ⏳️ Threeee
 - ⏳️ Thanos
 - ⏳️ Love of the S*n
-- ⏳️ Object Invasion (2024)
 - ⏳️ Animated Inanimate Battle
 - ⏳️ Brawl of the Objects
 

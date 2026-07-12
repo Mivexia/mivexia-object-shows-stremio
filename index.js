@@ -117,6 +117,14 @@ const showLinks = {
         "9": {
             "1": "9cGY4ZiZXyk", "2": "IJr9aROvktY", "3": "WPockTs4ZU0", "4": "S15dkopr-EY", "5": "yYGh4rgSHY4"
         }
+    },
+    "tt26628572": { // Showvember
+        "1": {
+            "1": "qGnpJ8i9hc8", "2": "kZzJmpDxSOU", "3": "sqe2rfgi4Jg", "4": "hMjTYVHBCqw", "5": "iGSra0bMU1o", "6": "MDm-2KWUSvY", "7": "cJ22CWXzwA4", "8": "sknviU8NoM0", "9": "mHL1--YBocE", "10": "_T4SZ29OZR0"
+        },
+        "2": {
+            "1": "QVuuOHvw4Vg", "2": "gVJlF2VMYc4", "3": "7n1FPfsNG30", "4": "ryYDcRnjFgI", "5": "bBnFpgKIPBs", "6": "qilq-0arY4A", "7": "uxjqZ9dLcD0", "8": "RDsej-dyC6g", "9": "NID1aFGXk7c", "10": "dlLeBkr8R5s"
+        }
     }
 };
 

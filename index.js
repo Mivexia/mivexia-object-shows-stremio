@@ -125,6 +125,16 @@ const showLinks = {
         "2": {
             "1": "QVuuOHvw4Vg", "2": "gVJlF2VMYc4", "3": "7n1FPfsNG30", "4": "ryYDcRnjFgI", "5": "bBnFpgKIPBs", "6": "qilq-0arY4A", "7": "uxjqZ9dLcD0", "8": "RDsej-dyC6g", "9": "NID1aFGXk7c", "10": "dlLeBkr8R5s"
         }
+    },
+    "tt14743620": { // Object Invasion (2016)
+        "1": {
+            "1": "yKof_meEcic", "2": "HmTMUH_8Hqs", "3": "QoEEHMkGKVQ", "4": "8DaMsOdtzBU", "5": "nPWAcQ2kXaw", "6": "OCzxC4GkGYE", "7": "qC1JQYhtpVs", "8": "pXMDXbVfqPo"
+        }
+    },
+    "tt35838877": { // Object Invasion (2024)
+        "1": {
+            "1": "QwhLsCusjS4", "2": "gwLknlyEPVs", "3": "bYscysDeJjs", "4": "4aN19t_A5V8", "5": "IYStuc1SvBU", "6": "Dnuq2AzrSks", "7": "rhOTngb89B0"
+        }
     }
 };
 

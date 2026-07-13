@@ -135,6 +135,11 @@ const showLinks = {
         "1": {
             "1": "QwhLsCusjS4", "2": "gwLknlyEPVs", "3": "bYscysDeJjs", "4": "4aN19t_A5V8", "5": "IYStuc1SvBU", "6": "Dnuq2AzrSks", "7": "rhOTngb89B0"
         }
+    },
+    "tt25967864": { // The Historical And Nice Object Show (THANOS)
+        "1": {
+            "1": "ubxd7HPKDQg"
+        }
     }
 };
 

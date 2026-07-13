@@ -140,6 +140,11 @@ const showLinks = {
         "1": {
             "1": "ubxd7HPKDQg"
         }
+    },
+    "tt26660432": { // Love of the S*n
+        "1": {
+            "1": "rGk4w4EFbbw", "2": "OoFlDmIA19Y", "3": "SMqBVG4bInA"
+        }
     }
 };
 

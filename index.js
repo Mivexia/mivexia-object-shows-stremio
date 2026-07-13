@@ -7,7 +7,7 @@ const builder = new addonBuilder({
     description: "Watch object shows in Stremio using YouTube.",
 
     resources: ["stream"],
-    types: ["movie", "series"], 
+    types: ["series"], 
     catalogs: []
 });
 
@@ -144,6 +144,11 @@ const showLinks = {
     "tt26660432": { // Love of the S*n
         "1": {
             "1": "rGk4w4EFbbw", "2": "OoFlDmIA19Y", "3": "SMqBVG4bInA"
+        }
+    },
+    "tt13327804": { // Animated Inanimate Battle (AIB)
+        "1": {
+            "0": "TAkO9P1Lr7A", "1": "reqqEAU2p-M", "2": "vC24iWdVusQ", "3": "tpWeU2Gaz-Q", "4": "FLDOUuFfTQ8", "5": "2NECtW4-oSs"
         }
     }
 };

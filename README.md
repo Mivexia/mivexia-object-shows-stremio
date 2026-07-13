@@ -17,7 +17,7 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅️ [Showvember](https://web.stremio.com/#/detail/series/tt26628572)
 - ✅️ [Object Invasion (2016)](https://web.stremio.com/#/detail/series/tt14743620)
 - ✅️ [Object Invasion (2024)](https://web.stremio.com/#/detail/series/tt35838877)
-- ⏳️ [The Historical And Nice Object Show (THANOS)](https://web.stremio.com/#/detail/series/tt25967864)
+- ✅️ [The Historical And Nice Object Show (THANOS)](https://web.stremio.com/#/detail/series/tt25967864)
 - ⏳️ Love of the S*n
 - ⏳️ Animated Inanimate Battle
 - ⏳️ Brawl of the Objects

@@ -20,7 +20,7 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅️ [The Historical And Nice Object Show (THANOS)](https://web.stremio.com/#/detail/series/tt25967864)
 - ✅️ [Love of the S*n](https://web.stremio.com/#/detail/series/tt26660432)
 - ✅️ [Animated Inanimate Battle (AIB)](https://web.stremio.com/#/detail/series/tt13327804)
-- ⏳️ Brawl of the Objects
+- ✅️ [Brawl of the Objects](https://web.stremio.com/#/detail/series/tt12158838)
 
 ✅ Fully supported
 

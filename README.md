@@ -75,3 +75,5 @@ If it seems like nothing is happening after you install the addon or open a stre
 BFDI 1A/1B and BFDIA 5A–5E currently uses fan-made combined uploads for those specific episodes to provide a smoother viewing experience.
 
 Inanimate Insanity may have unusual season ordering in Stremio due to metadata. The episode streams themselves should still be correct.
+
+After watching an episode, some series may lose their poster artwork and show a generic icon. This doesn't affect playback and is planned to be investigated in a future update.

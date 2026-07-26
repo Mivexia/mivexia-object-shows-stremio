@@ -76,9 +76,9 @@ const showLinks = {
             "1": "OWHZ2zOgr9c", "2": "0jq6sMEimPY", "3": "ZqwpZ09mbmo", "4": "raX54aw-bgc", "5": "wrkbSEBm5Fk", "6": "GhqmJ-NdPEE", "7": "deMihzUA4hY", "8": "Ew6Ho9sStZ0", "9": "8vRcG-ojfYc"
         }
     },
-    "tt32641101": { // CFMOT/ИНМТ
+    "tt26660432": { // Love of the S*n
         "1": {
-            "1": "8Wnb4v61MBk", "2": "B1HsRADBsDE", "3": "tbmJvb9ARdc", "4": "NM7eF5x-1K4", "5": "c2-L3eVn5hk", "6": "yeDBnoFIIPk", "7": "Q1m75p4JH_k", "8": "Srua4phEAsE"
+            "1": "rGk4w4EFbbw", "2": "OoFlDmIA19Y", "3": "SMqBVG4bInA"
         }
     },
     "tt23672398": { // The Nightly Manor
@@ -87,6 +87,11 @@ const showLinks = {
         },
         "2": {
             "1": "fTar7dVLofw", "2": "03dIz0y1DAc", "3": "A43PUiqnyEY"
+        }
+    },
+    "tt32641101": { // CFMOT/ИНМТ
+        "1": {
+            "1": "8Wnb4v61MBk", "2": "B1HsRADBsDE", "3": "tbmJvb9ARdc", "4": "NM7eF5x-1K4", "5": "c2-L3eVn5hk", "6": "yeDBnoFIIPk", "7": "Q1m75p4JH_k", "8": "Srua4phEAsE"
         }
     },
     "tt14743640": { // The Daily Object Show
@@ -118,12 +123,9 @@ const showLinks = {
             "1": "9cGY4ZiZXyk", "2": "IJr9aROvktY", "3": "WPockTs4ZU0", "4": "S15dkopr-EY", "5": "yYGh4rgSHY4"
         }
     },
-    "tt26628572": { // Showvember
+    "tt25967864": { // The Historical And Nice Object Show (THANOS)
         "1": {
-            "1": "qGnpJ8i9hc8", "2": "kZzJmpDxSOU", "3": "sqe2rfgi4Jg", "4": "hMjTYVHBCqw", "5": "iGSra0bMU1o", "6": "MDm-2KWUSvY", "7": "cJ22CWXzwA4", "8": "sknviU8NoM0", "9": "mHL1--YBocE", "10": "_T4SZ29OZR0"
-        },
-        "2": {
-            "1": "QVuuOHvw4Vg", "2": "gVJlF2VMYc4", "3": "7n1FPfsNG30", "4": "ryYDcRnjFgI", "5": "bBnFpgKIPBs", "6": "qilq-0arY4A", "7": "uxjqZ9dLcD0", "8": "RDsej-dyC6g", "9": "NID1aFGXk7c", "10": "dlLeBkr8R5s"
+            "1": "ubxd7HPKDQg"
         }
     },
     "tt14743620": { // Object Invasion (2016)
@@ -136,14 +138,12 @@ const showLinks = {
             "1": "QwhLsCusjS4", "2": "gwLknlyEPVs", "3": "bYscysDeJjs", "4": "4aN19t_A5V8", "5": "IYStuc1SvBU", "6": "Dnuq2AzrSks", "7": "rhOTngb89B0"
         }
     },
-    "tt25967864": { // The Historical And Nice Object Show (THANOS)
+    "tt26628572": { // Showvember
         "1": {
-            "1": "ubxd7HPKDQg"
-        }
-    },
-    "tt26660432": { // Love of the S*n
-        "1": {
-            "1": "rGk4w4EFbbw", "2": "OoFlDmIA19Y", "3": "SMqBVG4bInA"
+            "1": "qGnpJ8i9hc8", "2": "kZzJmpDxSOU", "3": "sqe2rfgi4Jg", "4": "hMjTYVHBCqw", "5": "iGSra0bMU1o", "6": "MDm-2KWUSvY", "7": "cJ22CWXzwA4", "8": "sknviU8NoM0", "9": "mHL1--YBocE", "10": "_T4SZ29OZR0"
+        },
+        "2": {
+            "1": "QVuuOHvw4Vg", "2": "gVJlF2VMYc4", "3": "7n1FPfsNG30", "4": "ryYDcRnjFgI", "5": "bBnFpgKIPBs", "6": "qilq-0arY4A", "7": "uxjqZ9dLcD0", "8": "RDsej-dyC6g", "9": "NID1aFGXk7c", "10": "dlLeBkr8R5s"
         }
     },
     "tt13327804": { // Animated Inanimate Battle (AIB)

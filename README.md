@@ -60,7 +60,7 @@ Thanks to the creators of these shows for making them, and to [Object Stream Com
 
 ## Disclaimer
 
-This is an unofficial fan project and isn't affiliated with jacknjellify or Object Stream Community.
+This is an unofficial fan project and isn't affiliated with jacknjellify or any other creators. 
 
 If anything here needs changing, feel free to open an issue or pull request.
 

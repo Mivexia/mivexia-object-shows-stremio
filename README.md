@@ -13,14 +13,14 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅ [ONE/HFJONE](https://web.strem.io/#/detail/series/tt19385824)
 - ✅️ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
 - ✅️ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
-- ✅️ [The Daily Object Show](https://web.stremio.com/#/detail/series/tt14743640)
-- ✅️ [Showvember](https://web.stremio.com/#/detail/series/tt26628572)
-- ✅️ [Object Invasion (2016)](https://web.stremio.com/#/detail/series/tt14743620)
-- ✅️ [Object Invasion (2024)](https://web.stremio.com/#/detail/series/tt35838877)
-- ✅️ [The Historical And Nice Object Show (THANOS)](https://web.stremio.com/#/detail/series/tt25967864)
-- ✅️ [Love of the S*n](https://web.stremio.com/#/detail/series/tt26660432)
-- ✅️ [Animated Inanimate Battle (AIB)](https://web.stremio.com/#/detail/series/tt13327804)
-- ✅️ [Brawl of the Objects](https://web.stremio.com/#/detail/series/tt12158838)
+- ✅️ [The Daily Object Show](https://web.strem.io/#/detail/series/tt14743640)
+- ✅️ [Showvember](https://web.strem.io/#/detail/series/tt26628572)
+- ✅️ [Object Invasion (2016)](https://web.strem.io/#/detail/series/tt14743620)
+- ✅️ [Object Invasion (2024)](https://web.strem.io/#/detail/series/tt35838877)
+- ✅️ [The Historical And Nice Object Show (THANOS)](https://web.strem.io/#/detail/series/tt25967864)
+- ✅️ [Love of the S*n](https://web.strem.io/#/detail/series/tt26660432)
+- ✅️ [Animated Inanimate Battle (AIB)](https://web.strem.io/#/detail/series/tt13327804)
+- ✅️ [Brawl of the Objects](https://web.strem.io/#/detail/series/tt12158838)
 
 ✅ Fully supported
 

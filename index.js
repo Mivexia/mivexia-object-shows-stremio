@@ -65,7 +65,7 @@ const showLinks = {
     },
     "tt32575983": { // Animatic Battle
         "1": {
-            "1": "CjbUT7C5VY8", "2": "S5m9vxMLaVs", "3": "cc9vaq2QXkM", "4": "QdbBWz3YA_8"
+            "1": "CjbUT7C5VY8", "2": "S5m9vxMLaVs", "3": "cc9vaq2QXkM", "4": "QdbBWz3YA_8", "5": "qFyhNeVXqIE"
         }
     },
     "tt19385824": { // ONE/HFJONE

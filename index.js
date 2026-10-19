@@ -89,6 +89,11 @@ const showLinks = {
             "1": "fTar7dVLofw", "2": "03dIz0y1DAc", "3": "A43PUiqnyEY"
         }
     },
+    "tt37786002": { // KorFC
+        "1": {
+            "1": "ZJwW9h20UT4", "2": "aTAsQg8ohfU", "3": "XeakIOT7Cr4"
+        }
+    },
     "tt32641101": { // CFMOT/ИНМТ
         "1": {
             "1": "8Wnb4v61MBk", "2": "B1HsRADBsDE", "3": "tbmJvb9ARdc", "4": "NM7eF5x-1K4", "5": "c2-L3eVn5hk", "6": "yeDBnoFIIPk", "7": "Q1m75p4JH_k", "8": "Srua4phEAsE"

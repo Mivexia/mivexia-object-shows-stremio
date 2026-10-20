@@ -13,7 +13,7 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅ [ONE/HFJONE](https://web.strem.io/#/detail/series/tt19385824)
 - ✅ [Love of the S*n](https://web.strem.io/#/detail/series/tt26660432)
 - ✅ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
-- ⏳️ KORFC
+- ✅️ [KORFC](https://web.strem.io/#/detail/series/tt37786002)
 - ⏳️ Tripwire
 - ✅ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
 - ⏳️ Battle for Niche Internet Fame (BFNIF)

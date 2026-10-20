@@ -6,25 +6,26 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 
 ## Supported Shows
 
-- ✅️ [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?)
-- ✅️ [Inanimate Insanity](https://web.strem.io/#/detail/series/tt3822326)
-- ✅️ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
-- ✅️ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
+- ✅ [Battle for Dream Island (BFDI)](https://web.strem.io/#/detail/series/tt5747554?)
+- ✅ [Inanimate Insanity](https://web.strem.io/#/detail/series/tt3822326)
+- ✅ [It's Time For The (ITFT)](https://web.strem.io/#/detail/series/tt32626768)
+- ✅ [Animatic Battle](https://web.strem.io/#/detail/series/tt32575983)
 - ✅ [ONE/HFJONE](https://web.strem.io/#/detail/series/tt19385824)
-- ✅️ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
-- ✅️ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
-- ✅️ [The Daily Object Show](https://web.strem.io/#/detail/series/tt14743640)
-- ✅️ [Showvember](https://web.strem.io/#/detail/series/tt26628572)
-- ✅️ [Object Invasion (2016)](https://web.strem.io/#/detail/series/tt14743620)
-- ✅️ [Object Invasion (2024)](https://web.strem.io/#/detail/series/tt35838877)
-- ✅️ [The Historical And Nice Object Show (THANOS)](https://web.strem.io/#/detail/series/tt25967864)
-- ✅️ [Love of the S*n](https://web.strem.io/#/detail/series/tt26660432)
-- ✅️ [Animated Inanimate Battle (AIB)](https://web.strem.io/#/detail/series/tt13327804)
-- ✅️ [Brawl of the Objects](https://web.strem.io/#/detail/series/tt12158838)
+- ✅ [Love of the S*n](https://web.strem.io/#/detail/series/tt26660432)
+- ✅ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
+- ⏳️ KORFC
+- ⏳️ Tripwire
+- ✅ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
+- ⏳️ Battle for Niche Internet Fame (BFNIF)
+- ✅ [The Daily Object Show](https://web.strem.io/#/detail/series/tt14743640)
+- ⏳️ Bean's Show
+- ✅ [The Historical And Nice Object Show (THANOS)](https://web.strem.io/#/detail/series/tt25967864)
+- ✅ [Object Invasion](https://web.strem.io/#/detail/series/tt14743620)
+- ✅ [Showvember](https://web.strem.io/#/detail/series/tt26628572)
+- ✅ [Animated Inanimate Battle (AIB)](https://web.strem.io/#/detail/series/tt13327804)
+- ✅ [Brawl of the Objects](https://web.strem.io/#/detail/series/tt12158838)
 
 ✅ Fully supported
-
-🧪 Available, testing
 
 🚧 In progress
 

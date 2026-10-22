@@ -16,6 +16,7 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅️ [KORFC](https://web.strem.io/#/detail/series/tt37786002)
 - ⏳️ Tripwire
 - ✅ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
+- ⏳️ Beautiful Ultimate Really Never Ending Realm (BURNER)
 - ⏳️ Battle for Niche Internet Fame (BFNIF)
 - ✅ [The Daily Object Show](https://web.strem.io/#/detail/series/tt14743640)
 - ⏳️ Bean's Show

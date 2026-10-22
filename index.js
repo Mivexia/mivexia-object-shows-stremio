@@ -104,6 +104,11 @@ const showLinks = {
             "1": "8Wnb4v61MBk", "2": "B1HsRADBsDE", "3": "tbmJvb9ARdc", "4": "NM7eF5x-1K4", "5": "c2-L3eVn5hk", "6": "yeDBnoFIIPk", "7": "Q1m75p4JH_k", "8": "Srua4phEAsE"
         }
     },
+    "tt27471309": { // Beautiful Ultimate Really Never Ending Realm (BURNER)
+        "1": {
+            "1": "tw-EVHk3btQ", "2": "M8iuZNQqQq4", "3": "8qhFJu6gMmg", "4": "INbL59UT6d4", "5": "LSI5trkX6B4"
+        }
+    },
     "tt14743640": { // The Daily Object Show
         "1": {
             "1": "W1JElKF4JBI", "2": "Va52BbBZtqs", "3": "zv6rB0oivUM", "4": "dIxdBY-Hxk8", "5": "DYdf1ncu-a4"

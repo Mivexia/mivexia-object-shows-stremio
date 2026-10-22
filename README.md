@@ -14,7 +14,7 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅ [Love of the S*n](https://web.strem.io/#/detail/series/tt26660432)
 - ✅ [The Nightly Manor](https://web.strem.io/#/detail/series/tt23672398)
 - ✅️ [KORFC](https://web.strem.io/#/detail/series/tt37786002)
-- ⏳️ [TRIPWIRE](https://web.strem.io/#/detail/series/tt44898531)
+- ✅️ [TRIPWIRE](https://web.strem.io/#/detail/series/tt44898531)
 - ✅ [CFMOT/ИНМТ](https://web.strem.io/#/detail/series/tt32641101)
 - ⏳️ Beautiful Ultimate Really Never Ending Realm (BURNER)
 - ⏳️ Battle for Niche Internet Fame (BFNIF)

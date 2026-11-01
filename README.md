@@ -21,7 +21,8 @@ This project was inspired by [Object Stream Community](https://www.objectstreamc
 - ✅ [The Daily Object Show](https://web.strem.io/#/detail/series/tt14743640)
 - ⏳️ Bean's Show
 - ✅ [The Historical And Nice Object Show (THANOS)](https://web.strem.io/#/detail/series/tt25967864)
-- ✅ [Object Invasion](https://web.strem.io/#/detail/series/tt14743620)
+- ✅ [Object Invasion (2016)](https://web.strem.io/#/detail/series/tt14743620)
+- ✅ [Object Invasion (2024)](https://web.strem.io/#/detail/series/tt35838877)
 - ✅ [Showvember](https://web.strem.io/#/detail/series/tt26628572)
 - ✅ [Animated Inanimate Battle (AIB)](https://web.strem.io/#/detail/series/tt13327804)
 - ✅ [Brawl of the Objects](https://web.strem.io/#/detail/series/tt12158838)

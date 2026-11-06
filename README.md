@@ -53,7 +53,7 @@ and click **Install**.
 
 ## Why?
 
-I wanted an easy way to watch object shows in Stremio using YouTube, and it turned into a fun summer project.
+I wanted an easy way to watch object shows in Stremio using YouTube, and it turned into a fun summer project, But also compatibility, Stremio currently supports Windows, Mac, Linux (including Steam Deck), Android, Android TV, Samsung TVs (2019+), LG TVs (2020+), IOS, and Web.
 
 ## A quick note
 

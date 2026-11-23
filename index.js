@@ -15,9 +15,9 @@ const builder = new addonBuilder({
 const showLinks = {
     "tt5747554": { // Battle For Dream Island (BFDI)
         "1": { 
-            "1": "4sWfDOkM-zA", "2": "JfzEO9-Zlhw", "3": "rhkgOXksmaY", "4": "cdmVPHdpECM", "5": "xHI-iKm31us", "6": "6vGgsXO57bs", "7": "Ze1p7bYXw0g", "8": "g0wCF04ddnw", "9": "ylVsfdU5pxo", "10": "Eg5Ja23HfhY",
-            "11": "yhkDgX2b7po", "12": "U4sp10HUI6Y", "13": "BQBmKvRd0B0", "14": "yZqh3l3-pTM", "15": "pf9FHBM0SLQ", "16": "nAKk0gm73K0", "17": "Xmh7M7TXDRE", "18": "x4K1xKHwp0E", "19": "4pR6Y3_ahS8", "20": "J9udiROQchg",
-            "21": "6OfKK5Rt3fY", "22": "GfFkiGgY6Pk", "23": "KLwgTM7HBhw", "24": "PigChYq_FrM", "25": "ye_HKD_C5o0"
+            "1": "YQa2-DY7Y_Q", "2": "8LY0o_CgPR8", "3": "JfzEO9-Zlhw", "4": "rhkgOXksmaY", "5": "cdmVPHdpECM", "6": "xHI-iKm31us", "7": "6vGgsXO57bs", "8": "Ze1p7bYXw0g", "9": "g0wCF04ddnw", "10": "ylVsfdU5pxo",
+            "11": "Eg5Ja23HfhY", "12": "yhkDgX2b7po", "13": "U4sp10HUI6Y", "14": "BQBmKvRd0B0", "15": "yZqh3l3-pTM", "16": "pf9FHBM0SLQ", "17": "nAKk0gm73K0", "18": "Xmh7M7TXDRE", "19": "x4K1xKHwp0E", "20": "4pR6Y3_ahS8",
+            "21": "J9udiROQchg", "22": "6OfKK5Rt3fY", "23": "GfFkiGgY6Pk", "24": "KLwgTM7HBhw", "25": "PigChYq_FrM", "26": "ye_HKD_C5o0"
         },
         "2": { 
             "1": "26FJTtLOu2s", "2": "hsprecnxSsE", "3": "dXUE7OFij_I", "4": "E174ogB49xs", "5": "sAcIKTtbnP0", "6": "qGqde_06qj8", "7": "kTcfak9R-ok", "8": "kuh1rlW4OyQ", "9": "S2JV2nT_5FM", "10": "lcObRZOVdRM",

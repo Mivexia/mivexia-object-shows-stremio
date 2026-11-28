@@ -11,6 +11,13 @@ const builder = new addonBuilder({
     catalogs: []
 });
 
+{
+  "stremioAddonsConfig": {
+    "issuer": "https://stremio-addons.net",
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..o06CKdBP98EIfMyjMLocPQ.8I0JBHIq7NpGvlPeXhfeVSaYr0GFnrPRfbsuNQYj8OlxiFA7a1Pd4R6NumEVkpZ3Gx_ImqtGmyY4W5mHfvvqf0O8OMy_JXpqReut_tBvpsLpJHPUhkKwuV3GAnQdpLRN.FQuq2QRJtAF3_tFu0fpo2g"
+  }
+}
+
 // Reorganized to map by [IMDb_ID][Season][Episode]
 const showLinks = {
     "tt5747554": { // Battle For Dream Island (BFDI)
